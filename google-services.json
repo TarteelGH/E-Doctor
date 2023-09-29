@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "909698323655",
+    "project_id": "e-doctor-fd5f1",
+    "storage_bucket": "e-doctor-fd5f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909698323655:android:723b05d21c014848959ae2",
+        "android_client_info": {
+          "package_name": "com.gxstudio.e_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909698323655-kugaegveq10gn2nvt8h6n16hgcfutha6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gxstudio.e_doctor",
+            "certificate_hash": "8652a13df1f45c6365545624cefd079eb85a993f"
+          }
+        },
+        {
+          "client_id": "909698323655-isuemuvdo834eqsnjpc1kmnq6vmom0lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPQEO3VFcUzaz1-bpRfwG0zsXFNvksPgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909698323655-isuemuvdo834eqsnjpc1kmnq6vmom0lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
